@@ -1,5 +1,5 @@
 
-# Street Style Landing Page
+# Food Resturant Home Page
 
 This is my assignment designed for [iNeuron.](https://ineuron.ai/)
 
